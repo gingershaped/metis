@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm") version "1.9.10" apply false
+    kotlin("jvm") version "2.0.0" apply false
 }
 
 subprojects {
@@ -11,4 +11,4 @@ subprojects {
 }
 
 group = "io.github.seggan"
-version = "0.4-SNAPSHOT"
+version = "0.5-SNAPSHOT"
